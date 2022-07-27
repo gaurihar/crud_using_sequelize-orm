@@ -1,0 +1,19 @@
+{
+  "name": "sequelize-mysql-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gaurihar darade",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "express": "^4.18.1",
+    "g": "^2.0.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3",
+    "sequelize-cli": "^6.4.1"
+  }
+}

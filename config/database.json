@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "root",
+      "password": "Gauri@pucsd12",
+      "database": "sequelize_orm",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+    
+  }
